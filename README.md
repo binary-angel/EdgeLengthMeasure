@@ -80,7 +80,3 @@ binary-angel
 ## License
 MIT License
 
----
-
-## Repository
-https://github.com/YOUR_USERNAME/edge-length-measure
