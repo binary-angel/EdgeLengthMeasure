@@ -75,8 +75,3 @@ Blender 5.0+
 ## Author
 binary-angel
 
----
-
-## License
-MIT License
-
